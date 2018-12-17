@@ -1,0 +1,14 @@
+level: Error; system: 45; instance: 24; action: A; timestamp: 01-01-1970;
+level: Error; system: 45; instance: 24; action: B; timestamp: 01-01-1970;
+level: Error; system: 45; instance: 24; action: C; timestamp: 01-01-1970;
+level: Error; system: 45; instance: 24; action: B; timestamp: 01-01-1970;
+level: Error; system: 45; instance: 24; action: C; timestamp: 02-01-1970;
+level: Error; system: 45; instance: 24; action: B; timestamp: 02-01-1970;
+level: Error; system: 45; instance: 24; action: C; timestamp: 02-01-1970;
+level: Error; system: 45; instance: 24; action: A; timestamp: 02-01-1970;
+level: Error; system: 45; instance: 24; action: B; timestamp: 03-01-1970;
+level: Error; system: 45; instance: 24; action: C; timestamp: 03-01-1970;
+level: Error; system: 45; instance: 24; action: B; timestamp: 03-01-1970;
+level: Error; system: 45; instance: 24; action: C; timestamp: 03-01-1970;
+level: Error; system: 45; instance: 24; action: B; timestamp: 04-01-1970;
+level: Error; system: 45; instance: 24; action: C; timestamp: 04-01-1970;
